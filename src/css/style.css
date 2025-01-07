@@ -1,0 +1,31 @@
+html,
+body {
+    font-family: "Arial", sans-serif;
+}
+
+#tracking-container {
+    position: relative;
+    margin-left: 100px;
+}
+
+#video-cam {
+    transform: scaleX(-1);
+    opacity: 1;
+}
+
+#video-overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#landmarks {
+    position: relative;
+}
+
+.keypoint {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    background-color: red;
+}
