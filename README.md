@@ -2,7 +2,7 @@
 
 This is an example how to use the hand landmark detection model with MediaPipe. Find the full description of the model [here.](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker)
 
-To run this project you'll need to have [Node.js](https://nodejs.org/en) installed on your machine. The project was set up with [vite](https://vite.dev/).
+To run this project you'll need to have [Node.js](https://nodejs.org/en) installed on your machine.
 
 ## [DEMO](http://hld.tdbr.xyz/)
 
