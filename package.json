@@ -1,7 +1,7 @@
 {
   "name": "hand-tracking-mediapipe",
   "version": "0.0.1",
-  "description": "A handtracking starter",
+  "description": "A simple starter project to use the MediaPipe hand tracking model with vanilla js.",
   "license": "ISC",
   "author": "Jean Böhm <hello@jeanboehm.de>",
   "type": "module",
